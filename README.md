@@ -2,6 +2,8 @@
 
 Visulization of pm2.5 for Chinese cities: Beijing, Shanghai, Guangzhou, Chengdu, Shenyang
 
+![](pm25.png)
+
 Raw data from:
 http://www.stateair.net/
 
