@@ -8,4 +8,4 @@ Raw data from:
 http://www.stateair.net/
 
 Visulization at
-http://chuanjin.me/pm25/
+http://pm25.chuanjin.me
